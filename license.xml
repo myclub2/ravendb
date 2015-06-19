@@ -1,0 +1,36 @@
+<license id="4eb6633d-4edb-496d-9c39-b8a748fb6e9e"
+         expiration="9999-12-31T23:59:59.9999999"
+         type="Personal"
+         version="3.0"
+         fips="true"
+         ravenfs="true"
+         numberOfCounters="unlimited"
+         numberOfDatabases="unlimited"
+         numberOfFileSystems="unlimited"
+         maxSizeInMb="unlimited"
+         maxRamUtilization="unlimited"
+         maxParallelism="unlimited"
+         allowWindowsClustering="true"
+         allowExternalBundles="true"
+         oem="true"
+         periodicBackup="true"
+         encryption="true"
+         compression="true"
+         quotas="true"
+         >
+  <name>gavin@weixiaoyuan.me</name>
+  <sig:Signature xmlns:sig="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>hAz1bS8EI1YLuuYr7kuPHJNyL4g=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue xmlns="http://www.w3.org/2000/09/xmldsig#">wNyXMiQxNsAVRjllQVXxJ0CVWuHlonW031qqSwG8UmGdnLFCxdG6BbuMCrTvCRzXEZRTgGqjxiY6jyhA4h/Z9mmywPWv84OBLQm/Cuv13T1xminop8dQ7k+74NZU9a671/NPHy6gzXNNLZ3JmAQA3Wo8wPcvr69w4WQ0ZGEwHXY=</SignatureValue>
+  </sig:Signature>
+</license>
